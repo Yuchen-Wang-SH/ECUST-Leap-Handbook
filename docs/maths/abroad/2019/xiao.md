@@ -19,15 +19,11 @@ ITMO大学-机器人技术-硕士（很不错的学校，可以学到很多实�
 Robotics @ ITMO_University (CSC奖学金)
 
 
-
 ## 实习经历
 
 ### Trade Marketing Intern @ 乐高LEGO（Shanghai, China）
 
 ### Site Engineer @ 华为Huawei（St. Petersburg, Russia）
-
-
-
 
 
 ## 现在工作
@@ -42,6 +38,6 @@ Robotics @ ITMO_University (CSC奖学金)
 xzxhgm@gmail.com
 <br />
 肖泽晓
-<!-- <这部分optional> -->
+
 
 *<-To Be Continue-*
